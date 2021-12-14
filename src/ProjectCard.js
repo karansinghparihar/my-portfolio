@@ -8,7 +8,7 @@ const ProjectCard = (props) => {
                     <div className="card-body">
                         <h5 className="card-title">{props.cardTitle}</h5>
                         <p className="card-text">{props.CardDesc}</p>
-                        <Link to="/service" className="btn btn-primary">Go somewhere</Link>
+                        <a href={props.cardPath} target={'_blank'} className="btn btn-primary">View Project</a>
                     </div>
             </div>
         </>

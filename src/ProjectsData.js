@@ -13,17 +13,20 @@ const ProjectsData = [
     {
         title:'Contact Manager App',
         desc:'A contact manager is a software program that enables users to easily store and find contact information, such as names, addresses, and telephone numbers.',
-        imageSrc: contactManager
+        imageSrc: contactManager,
+        path:'https://contactmanager-ksp.netlify.app/'
     },
     {
         title:'E-Commerce App',
         desc:'An ecommerce app should aim at providing an immersive and unique experience that makes online shopping a much simpler and seamless process.',
-        imageSrc: eCommerce
+        imageSrc: eCommerce,
+        path:'https://ecommerce-karan.netlify.app/'
     },
     {
         title:'E-Commerce App with Redux',
         desc:'Build an end-to-end E-Commerce App with React + Redux + FakeShopApi which provides unique shopping experience for end users.',
-        imageSrc: eCommerceRedux
+        imageSrc: eCommerceRedux,
+        path:'https://ecommerceredux.netlify.app/'
     }
     // ,
     // {
