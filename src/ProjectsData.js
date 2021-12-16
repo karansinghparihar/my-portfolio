@@ -1,6 +1,7 @@
 import contactManager from './images/contact-manager.png'
 import eCommerce from './images/e-commerce.png'
 import eCommerceRedux from './images/e-commerce-redux.jpeg'
+import taskManager from './images/task-manager.jpg'
 
 // import webImage from './images/web-development.jpg'
 // import appImage from './images/app-development.png'
@@ -27,6 +28,12 @@ const ProjectsData = [
         desc:'Build an end-to-end E-Commerce App with React + Redux + FakeShopApi which provides unique shopping experience for end users.',
         imageSrc: eCommerceRedux,
         path:'https://ecommerceredux.netlify.app/'
+    },
+    {
+        title:'Task Manager',
+        desc:'Task manager is an application for monitoring your projects tasks through their various stages from start to finish.',
+        imageSrc:taskManager,
+        path:'/taskmanager'
     }
     // ,
     // {

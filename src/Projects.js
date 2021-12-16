@@ -1,4 +1,4 @@
-import ProjectCard from "./ProjectCard";
+import ProjectCard from "./ProjectCard"
 import ProjectsData from './ProjectsData'
 
 const Projects = () => {
@@ -11,7 +11,7 @@ const Projects = () => {
                 <div className="col-md-10 col-10 mx-auto">
                     <div className="row gy-4 d-flex justify-content-evenly">
                         {ProjectsData.map((card, index) => {
-                            return <ProjectCard key={index} cardTitle={card.title} CardDesc={card.desc} cardImage={card.imageSrc} cardPath={card.path} />
+                            return <ProjectCard key={index} cardData={card} />
                         })}
                     </div>
                 </div>
