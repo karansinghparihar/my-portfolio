@@ -1,7 +1,7 @@
 import contactManager from './images/contact-manager.png'
 import eCommerce from './images/e-commerce.png'
 import eCommerceRedux from './images/e-commerce-redux.jpeg'
-import taskManager from './images/task-manager.jpg'
+import taskTracker from './images/task-tracker.jpg'
 
 // import webImage from './images/web-development.jpg'
 // import appImage from './images/app-development.png'
@@ -32,7 +32,7 @@ const ProjectsData = [
     {
         title:'Task Tracker',
         desc:'Task tracker is an application for monitoring your projects tasks through their various stages from start to finish.',
-        imageSrc:taskManager,
+        imageSrc:taskTracker,
         path:'https://tasktracker-ksp.netlify.app/'
     }
     // ,
