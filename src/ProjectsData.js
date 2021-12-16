@@ -30,7 +30,7 @@ const ProjectsData = [
         path:'https://ecommerceredux.netlify.app/'
     },
     {
-        title:'Task Manager',
+        title:'Task Tracker',
         desc:'Task tracker is an application for monitoring your projects tasks through their various stages from start to finish.',
         imageSrc:taskManager,
         path:'https://tasktracker-ksp.netlify.app/'
