@@ -33,7 +33,7 @@ const ProjectsData = [
         title:'Task Manager',
         desc:'Task manager is an application for monitoring your projects tasks through their various stages from start to finish.',
         imageSrc:taskManager,
-        path:'/taskmanager'
+        path:'https://taskmanager-ksp.netlify.app/'
     }
     // ,
     // {
