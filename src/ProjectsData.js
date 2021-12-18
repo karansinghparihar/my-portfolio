@@ -12,6 +12,12 @@ import taskTracker from './images/task-tracker.jpg'
 
 const ProjectsData = [
     {
+        title:'Task Tracker',
+        desc:'Task tracker is an application for monitoring your projects tasks through their various stages from start to finish.',
+        imageSrc:taskTracker,
+        path:'https://tasktracker-ksp.netlify.app/'
+    },
+    {
         title:'Contact Manager App',
         desc:'A contact manager is a software program that enables users to easily store and find contact information, such as names, addresses, and telephone numbers.',
         imageSrc: contactManager,
@@ -28,12 +34,6 @@ const ProjectsData = [
         desc:'Build an end-to-end E-Commerce App with React + Redux + FakeShopApi which provides unique shopping experience for end users.',
         imageSrc: eCommerceRedux,
         path:'https://ecommerceredux.netlify.app/'
-    },
-    {
-        title:'Task Tracker',
-        desc:'Task tracker is an application for monitoring your projects tasks through their various stages from start to finish.',
-        imageSrc:taskTracker,
-        path:'https://tasktracker-ksp.netlify.app/'
     }
     // ,
     // {

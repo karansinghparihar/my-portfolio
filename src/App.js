@@ -7,7 +7,8 @@ import Home from './Home.js'
 import About from './About.js'
 import Contact from './Contact.js'
 import Projects from './Projects.js'
-import Footer from './Footer'
+import Footer from './Footer.js'
+import './App.css'
 
 const App = () => {
     return (
