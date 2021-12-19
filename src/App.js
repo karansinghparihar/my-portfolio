@@ -23,7 +23,6 @@ const App = () => {
                 <Redirect to='/' />
             </Switch>
             <Footer />
-
         </>
     )
 }

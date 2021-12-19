@@ -5,11 +5,11 @@
     -moz-osx-font-smoothing: grayscale;
    
 } */
-body, #root #contact {
+/* body, #root #contact {
     height: 100vh;
-}
+} */
 #root #myInfo {
-    height: 75vh;
+    min-height: 75vh;
 }
 
 
