@@ -14,9 +14,9 @@ import netflix from './images/netflix.jpg'
 const ProjectsData = [
     {
         title:'Netflix Clone',
-        desc:'Netflix clone made with advanced react, context-api with firebase authentication.',
+        desc:'Netflix clone made with advanced react, context-api, protected routes and firebase authentication.',
         imageSrc:netflix,
-        path:'https://tasktracker-ksp.netlify.app/'
+        path:'https://netflix-karan.netlify.app/'
     },
     {
         title:'Task Tracker',
