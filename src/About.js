@@ -7,7 +7,7 @@ const About = () => {
     const aboutData = {
         intro: 'Hey, my name is ',
         name: 'Karan Singh Parihar',
-        desc: 'Experienced front end developer who is comfortable working with React, HTML/CSS/Javascript/Bootstrap to deliver exceptional customer experiences.',
+        desc: 'Experienced front end developer who is comfortable working with Typescript, React, Redux toolkit, Thunk, HTML/CSS/Javascript/Bootstrap to deliver exceptional customer experiences.',
         btn_label: 'Contact Now',
         image: aboutImage,
         visit: '/contact'
