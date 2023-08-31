@@ -37,10 +37,10 @@ const ProjectsData = [
     //     path:'https://ecommerce-karan.netlify.app/'
     // },
     {
-        title:'E-Commerce App with Redux',
+        title:'Fashion Bucket App with Redux',
         desc:'Build an end-to-end E-Commerce App with React + Redux + FakeShopApi which provides unique shopping experience for end users.',
         imageSrc: eCommerceRedux,
-        path:'https://ecommerceredux.netlify.app/'
+        path:'https://fashionbucket.pages.dev/'
     }
     // ,
     // {
